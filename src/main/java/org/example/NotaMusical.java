@@ -1,3 +1,5 @@
+package org.example;
+
 public class NotaMusical {
     private Altura altura;
     private Duracao duracao;

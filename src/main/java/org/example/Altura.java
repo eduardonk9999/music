@@ -1,3 +1,4 @@
+package org.example;
 
 public class Altura {
     private String nome;
